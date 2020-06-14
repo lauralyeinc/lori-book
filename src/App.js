@@ -9,17 +9,17 @@ function App() {
   return (
     <Div className='App'>
 
-      <div className="Nav-Area">
+      <Div className="Nav-Area">
         <Navigation />
-      </div>
+      </Div>
 
       <MainDiv className="Main-Area">
         <AppRouter />
       </MainDiv>
 
-      <div className="Footer-Area">
+      <Div className="Footer-Area">
         <Footer />
-      </div>
+      </Div>
       
     </Div>
   );

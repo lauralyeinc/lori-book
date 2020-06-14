@@ -19,7 +19,6 @@ const Footer = () => {
 export default Footer; 
 
 const Div = styled.div`
-border: 2px solid red;
 width: 85%;
 margin: auto;
 padding: 2rem;
@@ -32,6 +31,7 @@ border-top: 1.25px solid #001021;
 
 const CopyRightDiv = styled.div`
 color: 	#696969;
+text-align: center; 
 `
 
 const A = styled.a`
