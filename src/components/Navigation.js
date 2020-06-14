@@ -30,7 +30,7 @@ const Title = styled.h1`
 margin: center;
 font-style: oblique;
 font-size: 2rem; 
-
+text-align: center; 
 `
 
 const Navdiv = styled.div`
